@@ -234,6 +234,7 @@ ________________________________________________________________________________
 * __dnswalk	2.0.2__	A DNS debugger	http://sourceforge.net/projects/dnswalk/
 * __domain-analyzer	0.8.1__	Finds all the security information for a given domain name.	http://sourceforge.net/projects/domainanalyzer/
 * __doona	118.ff1e17b__	A fork of the Bruteforce Exploit Detector Tool (BED).	https://github.com/wireghoul/doona
+* __dorkify__	Perform Google Dork search with Dorkify.	https://github.com/hhhrrrttt222111/Dorkify
 * __dotdotpwn	3.0__	The Transversal Directory Fuzzer	http://dotdotpwn.blogspot.com
 * __dpeparser	beta002__	Default password enumeration project	http://www.toolswatch.org/dpe/
 * __dpscan	0.1__	Drupal Vulnerabilty Scanner.	https://github.com/insaneisnotfree/Blue-Sky-Information-Security
@@ -672,6 +673,7 @@ marc4dasm	6.f11860f	This python-based tool is a disassembler for the Atmel MARC4
 * __php-mt-seed	3.2__	PHP mt_rand() seed cracker	http://www.openwall.com/php_mt_seed/
 * __php-rfi-payload-decoder	30.bd42caa__	Decode and analyze RFI payloads developed in PHP.	https://github.com/bwall/PHP-RFI-Payload-Decoder
 * __php-vulnerability-hunter	1.4.0.20__	An whitebox fuzz testing tool capable of detected several classes of vulnerabilities in PHP web applications.	https://phpvulnhunter.codeplex.com/
+* __phpsploit__ Full-featured C2 framework which silently persists on webserver via evil PHP oneliner. https://github.com/nil0x42/phpsploit
 * __phpstress	5.f987a7e__	A PHP denial of service / stress test for Web Servers running PHP-FPM or PHP-CGI.	https://github.com/nightlionsecurity/phpstress
 * __phrasendrescher	1.2.2__	A modular and multi processing pass phrase cracking tool	http://www.leidecker.info/projects/phrasendrescher/
 * __pipal	1.1__	A password analyser	http://www.digininja.org/projects/pipal.php
